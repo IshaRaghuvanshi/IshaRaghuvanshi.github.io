@@ -13,18 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Lost in India"
+title: Lost in India
 
 email: isharaghuvanshi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-"We all have a bucket list right? It might be of just eating crazy things, to travelling to the most amazing places, to sleeping from morning to night etc.
-So here’s the blog on all the places which have been lost amidst the busy and westernized world today, which need a little recognition. These places would show the culture, people, festivals, unity , colors , and all that which makes India what it is . 
-So let’s explore this beautiful country through the eyes of ‘’ lost in India “. You never know you might just add a few places to that list of yours, because I surely did!"
-
+ We all have a bucket list right? It might be of just eating crazy things, to travelling to the most amazing places, to sleeping from morning to night etc. So here’s the blog on all the places which have been lost amidst the busy and westernized world today, which need a little recognition. These places would show the culture, people, festivals, unity , colors, and all that which makes India what it is. So let’s explore this beautiful country through the eyes of ‘’ lost in India “. You never know you might just add a few places to that list of yours, because I surely did!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isha8799
 github_username:  IshaRaghuvanshi
+instagram_username: isha_0807
 google_analytics: UA-115634518-1
 
 # Build settings

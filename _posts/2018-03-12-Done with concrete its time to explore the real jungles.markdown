@@ -7,21 +7,22 @@ comments: true
 categories: jekyll update
 ---
 "Bags packed,
-Map in hand,
-Standing on the starting line hand in hand.
-Love for all
-But greed to win
 
-let’s see who wins the race to visiting all these heaven.""
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Map in hand,
+
+Standing on the starting line hand in hand.
+
+Love for all,
+
+But greed to win,
+
+Let’s see who wins the race to visiting all these heaven."
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
 
 
-</script>
+
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
 
